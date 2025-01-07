@@ -1,12 +1,5 @@
 # WeatherApi
 A Weather API is a service that provides weather data, including current conditions, forecasts, and historical data, which can be integrated into applications. Using HTML and Python, you can create a web application or project that fetches and displays weather data for a specific location.
-ChatGPT
-
-You said:
-Overall brief about weather api using html and python 
-ChatGPT said:
-ChatGPT
-A Weather API is a service that provides weather data, including current conditions, forecasts, and historical data, which can be integrated into applications. Using HTML and Python, you can create a web application or project that fetches and displays weather data for a specific location.
 Weather API:
 Popular APIs: OpenWeatherMap
 Provides endpoints for real-time weather, forecasts, and other details.
